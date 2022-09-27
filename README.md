@@ -2,7 +2,7 @@
 
 This project is carried out with an offer from Pablo Airlines. It consists of three parts: server, Android, and Arduino under the theme of building a user authentication-based door lock system.
 
-Progress period : 2022.09.04 ~ 2022.09.23
+Progress period : 2022.09.04 ~ 2022.09.28
 
 Hosted by: kusitsm
 
@@ -25,9 +25,9 @@ Hosted by: kusitsm
 
 This is main board.
 
-- ESP 8266
+- HC-05
 
-This is wifi module. We use this for communication with Spring boot server.
+This is bluetooth module. We use this for communication with android user and spring boot server
 
 - DE2110
 
