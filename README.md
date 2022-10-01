@@ -40,6 +40,6 @@ This is QR code scanner module. We use this for getting serial number from QR co
 
 This is motor module. We use this to open and clode door automatically.
 
-## ⚒️ Skills
+### Skills
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
