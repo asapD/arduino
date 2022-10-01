@@ -21,6 +21,9 @@ Hosted by: kusitsm
 
 ### Hardware
 
+![image](https://user-images.githubusercontent.com/61505572/193398468-01c8a4d0-ca11-4338-a143-ad21e32e3b71.png)
+
+
 - Arduino UNO R3
 
 This is main board.
@@ -37,3 +40,6 @@ This is QR code scanner module. We use this for getting serial number from QR co
 
 This is motor module. We use this to open and clode door automatically.
 
+## ⚒️ Skills
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
